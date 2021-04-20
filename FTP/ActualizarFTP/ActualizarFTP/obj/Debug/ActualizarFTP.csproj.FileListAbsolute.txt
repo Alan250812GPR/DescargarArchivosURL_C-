@@ -1,0 +1,10 @@
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.csprojAssemblyReference.cache
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.Form1.resources
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.Properties.Resources.resources
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.csproj.GenerateResource.cache
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.csproj.CoreCompileInputs.cache
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.exe.config
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.exe
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.pdb
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.exe
+C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.pdb
