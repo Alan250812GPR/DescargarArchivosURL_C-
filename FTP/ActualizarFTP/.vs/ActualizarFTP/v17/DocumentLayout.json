@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alan\\source\\repos\\DescargarArchivosURL_C-\\FTP\\ActualizarFTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2015A-2BB7-4B6F-8F32-D85B444DFE8D}|ActualizarFTP\\ActualizarFTP.csproj|c:\\users\\alan\\source\\repos\\descargararchivosurl_c-\\ftp\\actualizarftp\\actualizarftp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DD2015A-2BB7-4B6F-8F32-D85B444DFE8D}|ActualizarFTP\\ActualizarFTP.csproj|solutionrelative:actualizarftp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2015A-2BB7-4B6F-8F32-D85B444DFE8D}|ActualizarFTP\\ActualizarFTP.csproj|c:\\users\\alan\\source\\repos\\descargararchivosurl_c-\\ftp\\actualizarftp\\actualizarftp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2015A-2BB7-4B6F-8F32-D85B444DFE8D}|ActualizarFTP\\ActualizarFTP.csproj|solutionrelative:actualizarftp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\DescargarArchivosURL_C-\\FTP\\ActualizarFTP\\ActualizarFTP\\Form1.cs",
+              "RelativeDocumentMoniker": "ActualizarFTP\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\DescargarArchivosURL_C-\\FTP\\ActualizarFTP\\ActualizarFTP\\Form1.cs",
+              "RelativeToolTip": "ActualizarFTP\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:58:46.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\DescargarArchivosURL_C-\\FTP\\ActualizarFTP\\ActualizarFTP\\Form1.cs",
+              "RelativeDocumentMoniker": "ActualizarFTP\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\DescargarArchivosURL_C-\\FTP\\ActualizarFTP\\ActualizarFTP\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActualizarFTP\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:54:20.569Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
