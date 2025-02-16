@@ -1,14 +1,8 @@
 ﻿using System;
-using System.IO;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net;
+using System.IO;
 
 namespace ActualizarFTP
 {
@@ -21,13 +15,7 @@ namespace ActualizarFTP
 
         //Cliente Web
         WebClient cliente = new WebClient();
-        string ruta = null;
-
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
+        string ruta = "C:\\Program Files (x86)\\DBOleofinos\\DBOleofinos.exe";
 
         //Funtion Client
 
@@ -71,15 +59,22 @@ namespace ActualizarFTP
         //Files
         private void UpdateSoft_Click(object sender, EventArgs e)
         {
-            //Guardar y abrir aviso de si o no
-            SaveFileDialog dialogo = new SaveFileDialog();
-            dialogo.Filter = "Todos los archivos|*.*";
-            dialogo.FileName = txturl.Text.Substring(txturl.Text.LastIndexOf("/") + 1);
-            if (dialogo.ShowDialog() == DialogResult.OK)
+
+            if (File.Exists(ruta))
             {
-                ruta = dialogo.FileName;
-                cliente.DownloadFileAsync(new Uri(txturl.Text), dialogo.FileName);
+                cliente.DownloadFileAsync(new Uri(txturl.Text), ruta);
             }
+            else
+            {
+                SaveFileDialog dialogo = new SaveFileDialog();
+                dialogo.Filter = "Todos los archivos|*.*";
+                dialogo.FileName = txturl.Text.Substring(txturl.Text.LastIndexOf("/") + 1);
+                if (dialogo.ShowDialog() == DialogResult.OK)
+                {
+                    ruta = dialogo.FileName;
+                    cliente.DownloadFileAsync(new Uri(txturl.Text), dialogo.FileName);
+                }
+            }   
         }
 
         private void txturl_TextChanged(object sender, EventArgs e)

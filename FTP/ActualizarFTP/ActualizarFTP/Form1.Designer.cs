@@ -53,7 +53,7 @@ namespace ActualizarFTP
             this.txturl.Name = "txturl";
             this.txturl.Size = new System.Drawing.Size(535, 20);
             this.txturl.TabIndex = 1;
-            this.txturl.Text = "http://10.10.30.211/test/sensorgraphicDesktop.exe";
+            this.txturl.Text = "https://sacyp.mx/public/Update/DBOleofinos.exe";
             this.txturl.Visible = false;
             this.txturl.TextChanged += new System.EventHandler(this.txturl_TextChanged);
             // 
