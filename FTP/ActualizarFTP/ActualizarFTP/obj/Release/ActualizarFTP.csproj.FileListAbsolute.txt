@@ -1,0 +1,14 @@
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Release\ActualizarFTP.exe.config
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Release\ActualizarFTP.exe.manifest
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Release\ActualizarFTP.application
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Release\ActualizarFTP.exe
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Release\ActualizarFTP.pdb
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.csproj.AssemblyReference.cache
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.Form1.resources
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.Properties.Resources.resources
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.csproj.GenerateResource.cache
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.exe.manifest
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.application
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.exe
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Release\ActualizarFTP.pdb

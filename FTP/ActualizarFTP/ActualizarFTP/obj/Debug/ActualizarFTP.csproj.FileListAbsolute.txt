@@ -8,3 +8,17 @@ C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\Actualiz
 C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.pdb
 C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.exe
 C:\Users\Programacion\Desktop\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.pdb
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.exe.config
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.exe
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.pdb
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.csproj.AssemblyReference.cache
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.Form1.resources
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.Properties.Resources.resources
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.csproj.GenerateResource.cache
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.exe
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.pdb
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.exe.manifest
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\bin\Debug\ActualizarFTP.application
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.exe.manifest
+C:\Users\Alan\Source\Repos\DescargarArchivosURL_C-\FTP\ActualizarFTP\ActualizarFTP\obj\Debug\ActualizarFTP.application
